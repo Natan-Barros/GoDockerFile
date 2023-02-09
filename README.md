@@ -1,0 +1,2 @@
+- DOCKER HUB: https://hub.docker.com/r/natanbarros12/fullcycle
+- TO USE IMAGE
